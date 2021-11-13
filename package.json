@@ -1,0 +1,27 @@
+{
+  "name": "productapi",
+  "version": "1.0.0",
+  "description": "IT Product API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kesinee-bo/IonicBookShopAPI"
+  },
+  "author": "Kesinee Boonchuay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kesinee-bo/IonicBookShopAPI/issues"
+  },
+  "homepage": "https://github.com/kesinee-bo/IonicBookShopAPI#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^8.4.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
